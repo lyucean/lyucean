@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I am currently working on [esh-derevenskoe.ru](http://esh-derevenskoe.ru/)
-- 🌱 I am currently learning now how to become the best CTO
+- 🌱 I am currently learning now how to become the best CIO
 - 👯 I am looking to collaborate with young teams as a free mentor.
 - 🤔 I am looking for help with finding the best practices for the IT unit.
 - 💬 Ask me about how to launch an MVP model of your project.
